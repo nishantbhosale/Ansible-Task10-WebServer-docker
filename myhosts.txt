@@ -1,1 +1,1 @@
-192.168.2.123 ansible_ssh_user=root ansible_ssh_pass=redhat ansible_connection=ssh
+192.168.2.123 ansible_ssh_user=root ansible_ssh_pass=docker123 ansible_connection=ssh
